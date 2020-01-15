@@ -61,18 +61,18 @@
                <div class="row ">
                   <div class="col-lg-12 col-md-12 ">
                      <div class="owl-carousel" data-autoplay="true" data-loop="true" data-nav="false" data-dots="false" data-items="7" data-items-laptop="6" data-items-tab="5" data-items-mobile="2" data-items-mobile-sm="1" data-margin="30">
-                        <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src="assets/images/clients/white/01.png" alt="#"></a></div>
-                        <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src="assets/images/clients/white/02.png" alt="#"></a></div>
-                        <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src="assets/images/clients/white/03.png" alt="#"></a></div>
-                        <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src="assets/images/clients/white/04.png" alt="#"></a></div>
-                        <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src="assets/images/clients/white/05.png" alt="#"></a></div>
-                        <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src="assets/images/clients/white/06.png" alt="#"></a></div>
-                        <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src="assets/images/clients/white/01.png" alt="#"></a></div>
-                        <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src="assets/images/clients/white/02.png" alt="#"></a></div>
-                        <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src="assets/images/clients/white/03.png" alt="#"></a></div>
-                        <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src="assets/images/clients/white/04.png" alt="#"></a></div>
-                        <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src="assets/images/clients/white/05.png" alt="#"></a></div>
-                        <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src="assets/images/clients/white/06.png" alt="#"></a></div>
+                        <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src=<?=base_url()."assets/images/clients/white/01.png"?> alt="#"></a></div>
+                        <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src=<?=base_url()."assets/images/clients/white/02.png"?> alt="#"></a></div>
+                        <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src=<?=base_url()."assets/images/clients/white/03.png"?> alt="#"></a></div>
+                        <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src=<?=base_url()."assets/images/clients/white/04.png"?> alt="#"></a></div>
+                        <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src=<?=base_url()."assets/images/clients/white/05.png"?> alt="#"></a></div>
+                        <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src=<?=base_url()."assets/images/clients/white/06.png"?> alt="#"></a></div>
+                        <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src=<?=base_url()."assets/images/clients/white/01.png"?> alt="#"></a></div>
+                        <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src=<?=base_url()."assets/images/clients/white/02.png"?> alt="#"></a></div>
+                        <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src=<?=base_url()."assets/images/clients/white/03.png"?> alt="#"></a></div>
+                        <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src=<?=base_url()."assets/images/clients/white/04.png"?> alt="#"></a></div>
+                        <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src=<?=base_url()."assets/images/clients/white/05.png"?> alt="#"></a></div>
+                        <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src=<?=base_url()."assets/images/clients/white/06.png"?> alt="#"></a></div>
                      </div>
                   </div>
                </div>
@@ -82,7 +82,7 @@
             <div class="container">
                <div class="row flex-row-reverse">
                   <div class="col-lg-6 align-self-center">
-                     <img src="assets/images/about/01.png" class="img-fluid" alt="">
+                     <img src=<?=base_url()."assets/images/about/01.png"?> class="img-fluid" alt="">
                   </div>
                   <div class="col-lg-6 align-self-center">
                      <div class="heading-title left">
